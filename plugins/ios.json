@@ -1,0 +1,33 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.unarin.cordova.beacon": {
+            "PACKAGE_NAME": "io.eztracibeaconionicframeworkreferncecode"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "io.eztracibeaconionicframeworkreferncecode"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "io.eztracibeaconionicframeworkreferncecode"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "io.eztracibeaconionicframeworkreferncecode"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "io.eztracibeaconionicframeworkreferncecode"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.eztracibeaconionicframeworkreferncecode"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "io.eztracibeaconionicframeworkreferncecode"
+        }
+    },
+    "dependent_plugins": {}
+}
