@@ -10,6 +10,7 @@ it will show near, far and distance of the beacon from the iPhone.
 http://ionicframework.com/getting-started/
 
 3) Code can be compiled for iOS or Android
+
   a) To compile for iOS use following commands
 
       ionic platform add ios
@@ -24,4 +25,3 @@ http://ionicframework.com/getting-started/
       ionic build android
 
       You can now upload the apk created in platforms\android\build\outputs\apk to your Android phone
-      
